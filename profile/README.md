@@ -2,7 +2,7 @@
 
 ## PPSL CD
 
-Project progress can be tracked [here](https://github.com/orgs/ORG-PPSL/projects/1).
+Project progress can be tracked [here](https://github.com/orgs/ORG-PPSL/projects/1/views/7).
 
 ### Phase 1
 
