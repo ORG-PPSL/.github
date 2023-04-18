@@ -1,5 +1,7 @@
 # Open Repair Group
 
+*"If I wait until it's perfect, I'll probably never do this."*
+
 ## PPSL CD
 
 Project progress can be tracked [here](https://github.com/orgs/ORG-PPSL/projects/1/views/7).
